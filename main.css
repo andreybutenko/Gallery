@@ -1,0 +1,21 @@
+body {
+    background-color: #E6E6E6;
+    font-family: 'Ubuntu', sans-serif;
+}
+.content {
+    position: absolute;
+    top: 60px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    padding:5px;
+    background-color:White;
+}
+.square {
+    padding:2px;
+    border: 1px outset #F8F8F8;
+    background-color: #F8F8F8;
+}
+.square:hover {
+    background-color: #A5FF85;
+}
